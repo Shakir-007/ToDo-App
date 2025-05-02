@@ -30,14 +30,14 @@ This template provides a minimal setup for building a React application using Vi
    ```
 
 2. When prompted, choose the following:
-   - Project name: `paste`
+   - Project name: `Todo-App`
    - Framework: `React`
    - Variant: `JavaScript` or `TypeScript` as per your preference.
 
 3. Navigate into the project directory:
 
    ```bash
-   cd paste
+   cd Todo-App
    ```
 
 ### Step 2: Install Tailwind CSS
